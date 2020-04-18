@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "CTO and Co-Founder of FREO2 Australia, Research Fellow at UoM and technology enthusiast"
   location         : "Melbourne, Australia"
-  employer         : "The University of Melbourne / FREO2 Foundation Australia"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XIsE7SgAAAAJ"
   email            : "contact@davepeake.com"
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4852-624X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/7590948/dave-peake
+  stackoverflow    : 7590948/dave-peake
   steam            :
   tumblr           :
   twitter          : "davepeake"
