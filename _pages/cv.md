@@ -11,22 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc (Hons) in Science, University of Melbourne, 2006
+* Ph.D in Accelerator Physics, University of Melbourne, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012-2016: Research Physicist
+  * (DETECT Australia)[www.detectaustralia.com.au]
+  * Tasks include: Industry consulting, electronics design and
+  manufacture
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016: Laby Foundation Fellow
+  * School of Physics, University of Melbourne
+  * Development of a non-invasive haemoglobin measurement
+
+* 2017-Present: CTO FREO<sub>2</sub> Foundation Australia
+  * Duties include:
+    * Electronics design and construction
+    * Embedded system code
+    * Data Analysis
+    * Grant submission
+    * Outreach and presentations
+
+* 2015-Present: Freelance Consulting
+  * Electronics design and manufacturing
+  * Firmware development
+  * Software development
+  * REDCap data management
+
 Skills
 ======
 * Skill 1
@@ -41,19 +53,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
